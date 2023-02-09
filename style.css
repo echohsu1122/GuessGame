@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@600&display=swap');
+      
+.container{
+  font-family: 'Titillium Web', sans-serif;
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+h1{
+  font-size: 45px;
+}
+p{
+  font-size: 30px;
+}
+.content{
+  display: flex;
+  justify-content:center;
+  padding-bottom: 10px;
+}
+.box{
+  width: 100px;
+  height: 60px;
+ 
+}
+.answer{
+  line-height:60px;
+}
+.guess{
+  width: 90px;
+  height: 40px;
+  font-family:inherit;
+}
+.btn{
+  background-color: #555555;
+  border: none;
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 2px 2px;
+  cursor: pointer; 
+  line-height:60px;
+}      @import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@600&display=swap');
+      
+      .container{
+        font-family: 'Titillium Web', sans-serif;
+        width: 500px;
+        margin: 0 auto;
+        text-align: center;
+      }
+      h1{
+        font-size: 45px;
+      }
+      p{
+        font-size: 30px;
+      }
+      .content{
+        display: flex;
+        justify-content:center;
+        padding-bottom: 10px;
+      }
+      .box{
+        width: 100px;
+        height: 60px;
+       
+      }
+      .answer{
+        line-height:60px;
+      }
+      .guess{
+        width: 90px;
+        height: 40px;
+        font-family:inherit;
+      }
+      .btn{
+        background-color: #555555;
+        border: none;
+        color: white;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 2px 2px;
+        cursor: pointer; 
+        line-height:60px;
+      }
+      
